@@ -1,0 +1,35 @@
+body{
+    background-color: #B5EAEA;
+    
+    font-family: 'Sacramento', cursive;
+    font-size: 30px;
+}
+.Text-container{
+    text-align: center;
+    
+}
+.top-cloud{
+    padding: 50px;
+    position: relative;
+}
+.middle-cloud{
+    position: relative;
+    margin-left: 1000px;
+}
+.comp-img{
+    margin-left: 550px;
+    position: static;
+    
+}
+  
+
+.Text-container-2{
+    text-align: center;
+    padding: 10px;
+    color: purple;
+}
+.top-container-2{
+    margin-left: 1000px;
+    padding: 20px;
+    margin-bottom: 10px;
+}
